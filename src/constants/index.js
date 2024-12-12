@@ -11,7 +11,7 @@ export const EXPERIENCES = [
   
   {
     year: "July 2024 - Present",
-    role: "Junior Software Developer",
+    role: "Junior Software Developerff",
     company: "Digitron",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
     technologies: ["Javascript","HTML", "CSS", "React.js", "mySQL"],
