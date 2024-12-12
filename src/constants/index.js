@@ -25,7 +25,7 @@ export const EXPERIENCES = [
   },
   {
     year: "Jan 2023 - July 2023",
-    role: "Full Stack Developer-Interrn",
+    role: "Full Stack Developer Interrn",
     company: "Enable IT Solutions Pvt Ltd Nagpur",
     description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
     technologies: ["React,js", "Javascript", "mySQL", "Node.js"],
