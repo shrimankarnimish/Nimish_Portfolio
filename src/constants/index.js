@@ -11,7 +11,7 @@ export const EXPERIENCES = [
   
   {
     year: "July 2024 - Present",
-    role: "Junior Software Developerff",
+    role: "Junior Software Developer",
     company: "Digitron",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
     technologies: ["Javascript","HTML", "CSS", "React.js", "mySQL"],
@@ -25,7 +25,7 @@ export const EXPERIENCES = [
   },
   {
     year: "Jan 2023 - July 2023",
-    role: "Full Stack Developer Intern",
+    role: "Full Stack Developer-Intern",
     company: "Enable IT Solutions Pvt Ltd Nagpur",
     description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
     technologies: ["React,js", "Javascript", "mySQL", "Node.js"],
