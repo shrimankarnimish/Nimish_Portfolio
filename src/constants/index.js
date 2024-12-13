@@ -8,16 +8,9 @@ export const HERO_CONTENT = `I am a passionate full stack developer with a knack
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 2 years of professional experience, I have worked with a variety of technologies, including React.js, Node.js, MySQL, HTML5, CSS3 and frameworks like Bootstrap and Tailwind. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
-  {
-    year: "July 2024 - December 2024",
-    role: "Junior Software Developer",
-    company: "Digitron Nagpur",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["Javascript","HTML", "CSS", "React.js", "mySQL"],
-  },
   
   {
-    year: "July 2024 - December 2024",
+    year: "July 2024 - Present",
     role: "Junior Software Developer",
     company: "Digitron Nagpur",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
