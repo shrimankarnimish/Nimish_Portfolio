@@ -12,7 +12,7 @@ const Navbar = () => {
 
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/nimish-shrimankar-01851b2a9/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
         <a href="https://github.com/shrimankarnimish" target="_blank" rel="noopener noreferrer">
